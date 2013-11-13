@@ -1,0 +1,54 @@
+#head{
+    position:absolute;
+    top:0px;
+    left:0px;
+    width:1000px;
+   }
+   
+#logo{
+      position:absolute;
+      top:10px;
+      left:20px;
+   }
+   
+#header{
+           position:absolute;
+           top:75px;
+           left:675px;
+           font-family:sans-serif;
+           color:blue;
+		}
+#Body{
+    width:inherit;
+    height:inherit;
+    font-family:sans-serif;
+}
+h2{
+    position:absolute;
+    top:150px;
+    left:600px;
+    color:navy;
+    
+}
+#pic{
+    width:400px;
+}
+#signup{
+    position:absolute;
+    color:navy;
+    left:100px;
+    top:225px;
+    width:600px;
+    height:350px;
+    
+}
+#note{
+    position:absolute;
+    top:200px;
+    height:400px;
+    left:900px;
+    color:navy;
+    width:300px;
+    border:dashed;
+
+}

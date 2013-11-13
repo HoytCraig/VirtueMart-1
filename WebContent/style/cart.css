@@ -1,0 +1,9 @@
+body{
+    color:navy;
+    font-family:sans-serif;
+}
+#top{
+    position:absolute;
+    top:60px;
+    left:700px;
+}
